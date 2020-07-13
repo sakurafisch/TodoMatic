@@ -1,8 +1,9 @@
 import React from 'react';
+import './TodoApp.less'
 
 export function TodoApp(props: any) {
     return (
-        <div className="todoapp stack-large">
+      <div className="todoapp stack-large">
       <h1>TodoMatic</h1>
       <form>
         <h2 className="label-wrapper">
