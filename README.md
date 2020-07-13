@@ -33,6 +33,12 @@ yarn add --dev @types/webpack
 yarn add --dev react react-dom
 yarn add --dev @babel/preset-react
 yarn add --dev @types/react @types/react-dom @types/react
+
+# antd
+yarn add antd
+
+# mobx
+yarn add mobx mobx-react
 ```
 
 ## Linter
