@@ -10,7 +10,9 @@
     "build": "webpack --mode production",
     "start:dev": "webpack-dev-server --open"
   },
-  "dependencies": {},
+  "dependencies": {
+    "antd": "^4.4.2"
+  },
   "devDependencies": {
     "@babel/cli": "^7.6.0",
     "@babel/core": "^7.6.0",
